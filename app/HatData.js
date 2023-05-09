@@ -1,0 +1,77 @@
+export default [
+  {
+    id: 0,
+    title: "Hata-Evening Dress",
+    price: "20.00",
+    category: "Women",
+    rating: 2,
+    brand: "Milano",
+    tag: "New",
+    image:
+      "https://i1.adis.ws/i/boohooamplience/bcc04024_emerald_xl?$product_image_category_page_horizontal_filters_desktop$",
+    size: ["XS", "S", "M", "L", "XL", "XXL"],
+    color: ["blue", "red", "green", "yellow", "black", "white"],
+  },
+  {
+    id: 1,
+    title: "Hata-T-shirt Sailling",
+    price: "33.00",
+    category: "Men",
+    brand: "L&E",
+    tag: "New",
+    size: ["XS", "S", "M", "L", "XL", "XXL"],
+    color: ["blue", "red", "green", "yellow", "black", "white"],
+    rating: 3,
+    image:
+      "https://i.etsystatic.com/13051155/r/il/be33fd/1292768089/il_fullxfull.1292768089_ifl6.jpg",
+  },
+  {
+    id: 2,
+    title: "Hata-Long Sleeve Violet",
+    price: "13.00",
+    category: "Mango",
+    category: "WE&DS",
+    size: ["XS", "S", "M", "L", "XL", "XXL"],
+    color: ["perpule", "blue", "red", "green", "yellow", "black", "white"],
+    rating: 4,
+    image:
+      "https://i0.wp.com/cuttongarments.com/wp-content/uploads/2017/11/violet-copy-3.png?fit=466%2C538&ssl=1",
+  },
+  {
+    id: 3,
+    title: "Hata-Shirt Long",
+    price: "13.00",
+    rating: 2,
+    category: "WE&DS",
+    size: ["XS", "S", "M", "L", "XL", "XXL"],
+    color: ["blue", "red", "green", "yellow", "black", "white"],
+    image:
+      "https://pyxis.nymag.com/v1/imgs/09c/a81/a84c96ef90cb11f617133c138263182856-D0330979-713C1.2x.rdeep-vertical.w245.jpg",
+  },
+  {
+    id: 4,
+    title: "Hata-Evening Dress",
+    price: "20.00",
+    category: "Women",
+    brand: "Milano",
+    tag: "New",
+    rating: 5,
+    image:
+      "https://i1.adis.ws/i/boohooamplience/bcc04024_emerald_xl?$product_image_category_page_horizontal_filters_desktop$",
+    size: ["XS", "S", "M", "L", "XL", "XXL"],
+    color: ["blue", "red", "green", "yellow", "black", "white"],
+  },
+  {
+    id: 5,
+    title: "Hata-T-shirt Sailling",
+    price: "33.00",
+    category: "Men",
+    brand: "L&E",
+    rating: 2,
+    tag: "New",
+    size: ["XS", "S", "M", "L", "XL", "XXL"],
+    color: ["blue", "red", "green", "yellow", "black", "white"],
+    image:
+      "https://i.etsystatic.com/13051155/r/il/be33fd/1292768089/il_fullxfull.1292768089_ifl6.jpg",
+  },
+];
